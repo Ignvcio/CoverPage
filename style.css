@@ -1,0 +1,16 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background: black;
+  color: white;
+}
+body {
+  background: black;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+col-6 {
+  text-align: center;
+  margin-top: 300px;
+}

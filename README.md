@@ -1,2 +1,0 @@
-# CoverPage
-Created with CodeSandbox
